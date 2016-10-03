@@ -9,7 +9,7 @@ int main()
  cout << "  l"<<endl<<endl;
  cout << "   l"<<endl<<endl;
  cout << "    o"<<endl<<endl;
- cout <<endl;<<endl
+ cout <<endl<<endl
  cout << "      W"<<endl<<endl;
  cout << "     o"<<endl<<endl;
  cout << "    r"<<endl<<endl;
@@ -18,3 +18,6 @@ int main()
  cout << "!"<<endl<<endl;
  
 }
+/*
+hgjghjghj
+*/
