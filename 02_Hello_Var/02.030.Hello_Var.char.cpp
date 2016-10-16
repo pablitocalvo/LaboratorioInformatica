@@ -25,5 +25,4 @@ int main()
 	cout << '\\' <<endl
 	<<endl;
 	
-	char c
 }
