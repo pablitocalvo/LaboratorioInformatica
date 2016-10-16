@@ -12,12 +12,12 @@ int main()
 	cout << "a=" << a << endl;
 	cout << "b=" << b << endl;
 	
-	a=b*2;
+	a= b*2;
 	
 	cout << "a=" << a << endl;
 	cout << "b=" << b << endl;
 		
-	b=a+1;
+	b= a + 1;
 	
 	cout << "a=" << a << endl;
 	cout << "b=" << b << endl;
@@ -27,7 +27,7 @@ int main()
 	cout << "a=" << a+2 << endl;
 	cout << "b=" << b << endl;
 	
-	b=a*3;
+	b= a * 3;
 	cout << "a=" << a << endl;
 	cout << "b=" << b << endl;
 

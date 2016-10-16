@@ -8,10 +8,10 @@ int main()
 	
 	cout << 3.5 << endl;
 	
-	cout << 2+1 << endl;
+	cout << 2 + 1 << endl;
 	
 	cout << "2+1" << endl;
 	
-	cout << "2+1=" <<  2+1 << endl;
+	cout << "2+1=" <<  2 + 1 << endl;
 	 
 }

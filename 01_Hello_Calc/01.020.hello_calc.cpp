@@ -12,7 +12,7 @@ int main()
 	
 	cout << x << endl;
 	
-	cout << x+4 << endl;
+	cout << x + 4 << endl;
 	
 		 
 }
